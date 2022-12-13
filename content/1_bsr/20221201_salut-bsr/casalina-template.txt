@@ -1,0 +1,25 @@
+Title: salut bsr
+
+----
+
+Cover:
+
+- logo-dede-signature.png
+
+----
+
+Text: 
+
+----
+
+Date: 2022-12-01 00:00:00
+
+----
+
+Author:
+
+- mMuzEGsT
+
+----
+
+Tags: 
