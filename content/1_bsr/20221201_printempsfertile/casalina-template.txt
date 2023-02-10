@@ -1,0 +1,25 @@
+Title: Un printemps fertile
+
+----
+
+Cover:
+
+- img_0068.jpeg
+
+----
+
+Text: [{"content":{"text":"<p>C\u2019est au printemps 2018 que le collectif a joyeusement \u00e9clos.<\/p><p>Angela, vivant \u00e0 Bruxelles depuis plusieurs ann\u00e9es, d\u00e9cide de sensibiliser ses amis bruxellois \u00e0 la crise sociale que traverse sa r\u00e9gion natale : les Pouilles, au sud de l\u2019Italie.<\/p><p>C\u2019est aussi en ce printemps 2018 que de nombreuses initiatives citoyennes fleurissent dans les capitales et campagnes europ\u00e9ennes en r\u00e9ponse aux politiques migratoires et environnementales souvent jug\u00e9es inad\u00e9quates, inhumaines, ou tout simplement inexistantes.<\/p><p>C\u2019est dans ce contexte propice aux initiatives et gr\u00e2ce aux r\u00e9cits d\u2019Angela que les futures membres du collectif d\u00e9couvrent les conditions d\u00e9plorables d'accueil, de logement et de travail que subissent les demandeurs d\u2019asile et les sans-papiers dans une r\u00e9gion d\u2019Europe souvent d\u00e9laiss\u00e9e et mal connue.\u00a0<\/p><p>C\u2019est la premi\u00e8re fois qu\u2019ils entendront parler du <em>Caporalato<\/em>\u2026 Et s\u00fbrement pas la derni\u00e8re puisqu\u2019ils d\u00e9cident de se rendre sur place pour r\u00e9habiliter une ferme abandonn\u00e9e tout pr\u00e8s du village de Spinazzola.<\/p><p>C\u2019est le d\u00e9but du projet Casalina.\u00a0\u00a0<\/p><p><strong>\u00ab Building \u00bb car le collectif s'est constitu\u00e9 autour d'une r\u00e9novation : le projet Casalina.\u00a0<\/strong><\/p><p><strong>et \u00ab Social Resilience \u00bb pour l\u2019id\u00e9e de rebondir collectivement dans un contexte de crises sociales.<\/strong><\/p><p><br><\/p><p><\/p>"},"id":"f7dbf423-dfa0-4d84-be01-2bb8632f4264","isHidden":false,"type":"text"}]
+
+----
+
+Date: 2022-12-01 00:00:00
+
+----
+
+Author:
+
+- mMuzEGsT
+
+----
+
+Tags: 

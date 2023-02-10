@@ -1,0 +1,21 @@
+Title: Présentation
+
+----
+
+Cover: - 20191031_103026.jpg
+
+----
+
+Text: [{"content":{"text":"<p>La ferme Casalina se situe au milieu des champs, \u00e0 5 km de Spinazzola, une petite cit\u00e9 touch\u00e9e par le d\u00e9peuplement mais dont la tradition et l\u2019esprit pugliese sont encore intactes.\u00a0<\/p><p>Elle est compos\u00e9e d\u2019une petite maison et d\u2019un beau jardin ombrag\u00e9 par les cerisiers.\u00a0<\/p><p>Dans sa partie nord, se trouvent une pin\u00e8de parfaite pour y camper, un espace am\u00e9nag\u00e9 pour nos longs barbecues et plusieurs b\u00e2timents en ruines qui \u00e9taient \u00e0 l\u2019origine une cimenterie. Sur les coteaux de la colline d\u2019en face, on y devine l\u2019oliveraie. Et entre les deux se trouvent les quelques hectares de terrains agricoles cultiv\u00e9s depuis longtemps pour son bl\u00e9.<\/p><p>Aujourd\u2019hui, c\u2019est pr\u00e8s d\u20191Ha qui est utilis\u00e9 par l\u2019association pour les projets permacoles.<\/p><p>Rapidement les exp\u00e9riences de vie en collectivit\u00e9 au milieu de la nature nous ont donn\u00e9 envie de veiller aux ressources et de d\u00e9velopper des syst\u00e8mes durables : douche solaire, compost, toilettes s\u00e8ches, machine \u00e0 laver-V\u00e9lo, murs en torchis, revalorisation des eaux us\u00e9es, rocket stove,...Les participants continuent \u00e0 s\u2019informer sur les low-tech, l\u2019\u00e9co-construction et autres alternatives \u00e9cologiques.<\/p><p><\/p>"},"id":"0d20d612-568b-4de5-8afa-d29aecee0fc7","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["000016.jpg"],"src":"","alt":"","caption":"","link":"","ratio":"5\/3","crop":"true"},"id":"d0b5e721-b525-4bd6-b24e-6d9383c55b29","isHidden":false,"type":"image"}]
+
+----
+
+Date: 2023-01-27 00:00:00
+
+----
+
+Author: - mMuzEGsT
+
+----
+
+Tags: 

@@ -17,9 +17,31 @@
 
   More about templates: https://getkirby.com/docs/guide/templates/basics
 */
+
 ?>
+<div class="logo" id="logo_home">
+<img src="media/pages/home/logo_casalina.jpg"></img>
+<img src="media/pages/home/logo_bsr.png"></img>
+</div>
 <?php snippet('header') ?>
-  <?php snippet('intro') ?>
+ <?php snippet('intro') ?>
+<div>Casalina c’est le projet d’agriculture sociale lancé par le Collectif BSR dans les Pouilles, au sud de l’Italie. 
+
+Le projet a débuté en Juillet 2018 avec la rénovation d’une ferme dans le but de créer un lieu de rencontre entre les populations locales, les travailleurs saisonniers venus majoritairement d’Afrique et les bénévoles bruxellois ou internationaux.
+
+Par la suite, c’est sous forme de missions périodiques et grâce au soutien d’habitants du village que le projet poursuit ses objectifs:
+<ul>
+<li>de solidarité auprès des populations migrantes</li>
+<li> de recherche pour une agriculture durable et respectueuse</li>
+<li>d’échanges culturels et de savoirs-faire</li>
+</ul>
+</div>
+<div>
+</br>Le collectif Building Social Resilience est composé d’un noyau d’une vingtaine de bénévoles venant de Bruxelles et d’ailleurs. 
+Il est soutenu au quotidien par un nombre infini de belles personnes réunies par des valeurs communes telles que la solidarité et l’écologie, et préoccupées par les crises migratoires et environnementales que nous traversons.
+Le BSR cherche à sensibiliser sur ces problématiques contemporaines et à mettre en place des projets pour défendre le droit et l’accueil des réfugiés, l’agriculture naturelle et la souveraineté alimentaire tout en valorisant les échanges culturels et les espaces ruraux.
+</div>
+ 
   <?php
   /*
     We always use an if-statement to check if a page exists to
@@ -39,7 +61,7 @@
         <figure>
 
           <?php if ($cover = $casalina->cover()): ?>
-          <?= $cover->resize(20, 20) ?>
+          <?= $cover->resize(1024, 1024) ?>
           <?php endif ?>
           <figcaption>
             <span>
@@ -72,7 +94,7 @@
           */
           ?>
           <?php if ($cover = $bsr->cover()): ?>
-          <?= $cover->resize(200, 200) ?>
+          <?= $cover->resize(1024, 1024) ?>
           <?php endif ?>
           <figcaption>
             <span>
@@ -87,4 +109,4 @@
   <?php endif ?>
   
   
-<?php snippet('footer') ?>
+<!--<?php snippet('footer') ?>

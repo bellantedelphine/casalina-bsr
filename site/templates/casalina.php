@@ -43,4 +43,4 @@
 </ul>
 
 <?php snippet('pagination', ['pagination' => $casalina->pagination()]) ?>
-<?php snippet('footer') ?>
+<!--<?php snippet('footer') ?>

@@ -48,4 +48,4 @@
   </div>
 </aside>
 
-<?php snippet('footer') ?>
+<!--<?php snippet('footer') ?>

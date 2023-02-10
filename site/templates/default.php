@@ -27,4 +27,4 @@
   </div>
 </article>
 
-<?php snippet('footer') ?>
+<!--<?php snippet('footer') ?>

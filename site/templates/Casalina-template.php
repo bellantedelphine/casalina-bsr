@@ -53,7 +53,7 @@
     <time class="note-date" datetime="<?= $page->date('c') ?>">Published on <?= $page->date() ?></time>
   </footer>
 
-  <?php snippet('prevnext') ?>
+ <!-- <?php snippet('prevnext') ?>
 </article>
 
-<?php snippet('footer') ?>
+<!--<?php snippet('footer') ?>

@@ -37,9 +37,9 @@
   <?php foreach ($page->children()->listed() as $project): ?>
   <li class="column" style="--columns: 3">
     <a href="<?= $project->url() ?>">
-      <figure>
+       <figure>
         <span class="img" style="--w:4;--h:5">
-          <?= ($cover = $project->cover()) ? $cover->crop(200, 100) : null ?>
+          <?= ($cover = $project->cover()) ? $cover->crop(400, 500) : null ?>
         </span>
         <figcaption class="img-caption">
           <?= $project->title()->html() ?>
@@ -50,5 +50,5 @@
   <?php endforeach ?>
 </ul>
 
-<?php snippet('footer') ?>
+<!--<?php snippet('footer') ?>
 

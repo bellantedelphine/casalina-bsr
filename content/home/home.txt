@@ -1,9 +1,8 @@
-Title: Home
+Title: Qui sommes-nous ? 
 
 ----
 
-Headline: Bienvenue sur le site du BSR et de Casalina
-
+Headline:  
 ----
 
-Subheadline: Ceci est un site dédiés pour nos projets et nos engagements en Belgique et en Italie.
+Subheadline: 

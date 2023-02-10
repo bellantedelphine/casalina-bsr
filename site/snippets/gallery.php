@@ -13,7 +13,7 @@
   <?php foreach ($gallery->images() as $image): ?>
   <figure>
     <a href="<?= $image->link()->or($image->url()) ?>">
-      <?= $image->crop(400, 500) ?>
+      <?= $image->crop(50, 100) ?>
     </a>
   </figure>
   <?php endforeach ?>

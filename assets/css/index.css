@@ -32,7 +32,9 @@ html {
   background: var(--color-background);
 }
 img {
-  width: 100%;
+ display: block;
+  width: 60%;
+  margin: auto;
 }
 body {
   padding: var(--padding);
@@ -40,7 +42,8 @@ body {
   margin: 0 auto;
 }
 li {
-  list-style: none;
+  list-style: disc;
+  margin-left:30px;
 }
 a {
   color: currentColor;
@@ -82,7 +85,7 @@ small {
   display: flex;
   align-items: center;
   font-weight: 600;
-  cursor: pointer;
+
 }
 
 .menu {
@@ -133,7 +136,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: inherit;
   line-height: inherit;
   text-align:center;
+  margin-top:35px;
+
 }
+h1, h6{
+  margin-bottom:25px;}
 
 .text {
   line-height: 1.5em;
@@ -420,4 +427,7 @@ hr {
   color: var(--color-text-grey);
 }
 
+div.logo>img {
+width:10%;
+}
 

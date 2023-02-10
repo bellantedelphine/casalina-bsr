@@ -14,7 +14,7 @@
  *
  * More about models: https://getkirby.com/docs/guide/templates/page-models
  */
-class AlbumPage extends Page
+class BsrPage extends Page
 {
     public function cover()
     {
