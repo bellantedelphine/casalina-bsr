@@ -42,6 +42,7 @@ Il est soutenu au quotidien par un nombre infini de belles personnes réunies pa
 Le BSR cherche à sensibiliser sur ces problématiques contemporaines et à mettre en place des projets pour défendre le droit et l’accueil des réfugiés, l’agriculture naturelle et la souveraineté alimentaire tout en valorisant les échanges culturels et les espaces ruraux.
 </div>
  
+ <?php var_dump($kirby->url('assets')) ?>
   <?php
   /*
     We always use an if-statement to check if a page exists to

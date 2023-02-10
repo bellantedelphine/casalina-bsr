@@ -17,7 +17,7 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
-
+	
   <?php
   /*
     In the title tag we show the title of our
@@ -37,7 +37,12 @@
     'assets/css/prism.css',
     'assets/css/lightbox.css',
     'assets/css/index.css',
+    'assets/css/webshop-vincent.css',
     '@auto'
+  ]) ?>
+  
+  <?= js([
+  	'assets/js/webshop-vincent.js'
   ]) ?>
 
   <?php
@@ -52,6 +57,10 @@
 <body>
 
   <header class="header">
+  <div class="logo" id="logo_home">
+<img src="media/pages/home/logo_casalina.jpg"></img>
+<img src="media/pages/home/logo_bsr.png"></img>
+</div>
     <?php
     /*
       We use `$site->url()` to create a link back to the homepage
